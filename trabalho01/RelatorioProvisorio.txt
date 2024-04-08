@@ -1,0 +1,4 @@
+Começamos o código importando as APIS pertinentes ao projeto;
+Criamos nossa Aplicação chamada Vendas;
+Criamos o nosso PSVM para chamarmos um método(Iniciar), que será codificado a seguir;
+Criamos o método que sera responsavel por ler o arquivo.csv e armazenar as irformações do mesmo, vale lembrar que este métotdo tambem é responsavel por construir a parte visual da aplicação utilizando método auxiliares;
